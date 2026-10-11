@@ -17,7 +17,6 @@ of Madras) with hands-on experience building e-commerce backend modules
 
 ## Featured projects
 | Project | Tools |
-|---|---|---|
 | [Quick Commerce Analytics](https://github.com/<jayalakshmi3110>/quick-commerce-analytics) | Revenue drivers and delivery vs ratings on 30K orders | MySQL, Power BI, DAX |
 
 ## Experience highlights
