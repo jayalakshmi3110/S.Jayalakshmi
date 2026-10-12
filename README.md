@@ -1,6 +1,6 @@
 # Hi, I'm Jayalakshmi S
 
-### Aspiring Data Analyst & Developer | MySQL | Power BI | Python | Node.js | Javascript
+### Data Analyst & Developer | MySQL | Power BI | Python | Node.js | Javascript
 
 I turn raw data into dashboards and decisions. BCA graduate (University
 of Madras) with hands-on experience building e-commerce backend modules
